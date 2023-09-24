@@ -1,4 +1,4 @@
-# ExeclTOSQL
+# Execl TO SQL
 When you enter some data in Excel it will create sql table rows
 
 Assume the table structure is 
