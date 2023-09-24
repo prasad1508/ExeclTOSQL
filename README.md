@@ -26,6 +26,7 @@ CREATE TABLE [dbo].[PersonalDetails](
 Open excel and alt+F8 will open macro
 copy and paste the below code to macro and make the necessary changes in the code
 
+```vb
 Sub InsertDataIntoSQLTable()
     Dim conn As Object
     Set conn = CreateObject("ADODB.Connection")
@@ -71,4 +72,4 @@ Sub InsertDataIntoSQLTable()
     
     MsgBox "Data inserted successfully."
 End Sub
-
+```
