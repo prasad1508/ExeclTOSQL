@@ -2,12 +2,14 @@
 When you enter some data in Excel it will create sql table rows
 
 Assume the table structure is 
+
+```sql
 CREATE TABLE [dbo].[PersonalDetails](
     [Id] [int] NULL,
     [Name] [nchar](100) NULL,
     [Address] [nchar](100) NULL
 ) ON [PRIMARY]
-
+```
 
 
 
