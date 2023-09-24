@@ -14,6 +14,8 @@ CREATE TABLE [dbo].[PersonalDetails](
 
 
 ![image](https://github.com/prasad1508/ExeclTOSQL/assets/7384960/457da7c0-e00e-45e8-bb05-b00bb462db67)
+
+```
 --------------------------------------
 |  Id  |    Name     |   Address    |
 --------------------------------------
@@ -21,7 +23,7 @@ CREATE TABLE [dbo].[PersonalDetails](
 |  2   |  madushan   |   Mathara    |
 |  3   | samarasekara|   Colombo    |
 --------------------------------------
-
+```
 
 Open excel and alt+F8 will open macro
 copy and paste the below code to macro and make the necessary changes in the code
@@ -74,5 +76,5 @@ Sub InsertDataIntoSQLTable()
 End Sub
 
 ```
-
+enjoy quick SQL insertions
 
