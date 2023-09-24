@@ -8,6 +8,15 @@ CREATE TABLE [dbo].[PersonalDetails](
 	[Address] [nchar](100) NULL
 ) ON [PRIMARY]
 
+```sql
+CREATE TABLE [dbo].[PersonalDetails](
+    [Id] [int] NULL,
+    [Name] [nchar](100) NULL,
+    [Address] [nchar](100) NULL
+) ON [PRIMARY]
+
+
+
 ![image](https://github.com/prasad1508/ExeclTOSQL/assets/7384960/457da7c0-e00e-45e8-bb05-b00bb462db67)
 --------------------------------------
 |  Id  |    Name     |   Address    |
