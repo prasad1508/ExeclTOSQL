@@ -15,7 +15,7 @@ CREATE TABLE [dbo].[PersonalDetails](
 
 ![image](https://github.com/prasad1508/ExeclTOSQL/assets/7384960/457da7c0-e00e-45e8-bb05-b00bb462db67)
 
-```
+```code
 --------------------------------------
 |  Id  |    Name     |   Address    |
 --------------------------------------
