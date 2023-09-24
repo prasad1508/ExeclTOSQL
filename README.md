@@ -25,7 +25,7 @@ CREATE TABLE [dbo].[PersonalDetails](
 --------------------------------------
 ```
 
-Open excel and alt+F8 will open macro
+Open Excel and press `Alt+F8` to open the macro.
 copy and paste the below code to macro and make the necessary changes in the code
 
 ```vb
