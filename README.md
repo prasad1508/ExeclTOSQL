@@ -72,4 +72,7 @@ Sub InsertDataIntoSQLTable()
     
     MsgBox "Data inserted successfully."
 End Sub
+
 ```
+
+enjoy quick SQL insertions
